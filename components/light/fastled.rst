@@ -145,6 +145,7 @@ See Also
 --------
 
 - :doc:`/components/light/index`
+- :doc:`/components/light/neopixelbus.html`
 - :doc:`/components/power_supply`
 - :apiref:`fastled_base/fastled_light.h`
 - `Arduino FastLED library <https://github.com/FastLED/FastLED>`__
