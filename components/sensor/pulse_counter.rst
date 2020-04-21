@@ -5,8 +5,7 @@ Pulse Counter Sensor
     :description: Instructions for setting up pulse counter sensors.
     :image: pulse.png
 
-The pulse counter sensor allows you to count the number of pulses and the frequency of a signal
-on any pin.
+The pulse counter sensor allows you to count the number of pulses in a given time interval, that is, the frequency of a signal on any pin. The time interval is determined by the update_interval.
 
 On the ESP32, this sensor is even highly accurate because it's using the hardware `pulse counter
 peripheral <https://docs.espressif.com/projects/esp-idf/en/latest/api-reference/peripherals/pcnt.html>`__
